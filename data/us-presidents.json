@@ -1,0 +1,102 @@
+{
+  "properties": {
+    "id": "us-presidents",
+    "name": "US Presidents",
+    "description": "Reference list of United States presidents with terms, parties, birthplaces and coordinates.",
+    "license": "public domain",
+    "category": "history",
+    "tags": ["government", "history", "united states", "people", "coordinates"],
+    "polity": "US",
+    "updated": "2026-06-01"
+  },
+  "data": [
+    {
+      "number": 1,
+      "name": "George Washington",
+      "party": "Unaffiliated",
+      "termStart": 1789,
+      "termEnd": 1797,
+      "birthState": "Virginia",
+      "birthplace": "Popes Creek",
+      "latitude": 38.192,
+      "longitude": -76.903
+    },
+    {
+      "number": 2,
+      "name": "John Adams",
+      "party": "Federalist",
+      "termStart": 1797,
+      "termEnd": 1801,
+      "birthState": "Massachusetts",
+      "birthplace": "Braintree",
+      "latitude": 42.206,
+      "longitude": -71.004
+    },
+    {
+      "number": 3,
+      "name": "Thomas Jefferson",
+      "party": "Democratic-Republican",
+      "termStart": 1801,
+      "termEnd": 1809,
+      "birthState": "Virginia",
+      "birthplace": "Shadwell",
+      "latitude": 38.007,
+      "longitude": -78.397
+    },
+    {
+      "number": 4,
+      "name": "James Madison",
+      "party": "Democratic-Republican",
+      "termStart": 1809,
+      "termEnd": 1817,
+      "birthState": "Virginia",
+      "birthplace": "Port Conway",
+      "latitude": 38.177,
+      "longitude": -77.186
+    },
+    {
+      "number": 5,
+      "name": "James Monroe",
+      "party": "Democratic-Republican",
+      "termStart": 1817,
+      "termEnd": 1825,
+      "birthState": "Virginia",
+      "birthplace": "Monroe Hall",
+      "latitude": 38.238,
+      "longitude": -76.992
+    },
+    {
+      "number": 16,
+      "name": "Abraham Lincoln",
+      "party": "Republican",
+      "termStart": 1861,
+      "termEnd": 1865,
+      "birthState": "Kentucky",
+      "birthplace": "Sinking Spring Farm",
+      "latitude": 37.532,
+      "longitude": -85.739
+    },
+    {
+      "number": 26,
+      "name": "Theodore Roosevelt",
+      "party": "Republican",
+      "termStart": 1901,
+      "termEnd": 1909,
+      "birthState": "New York",
+      "birthplace": "New York City",
+      "latitude": 40.738,
+      "longitude": -73.989
+    },
+    {
+      "number": 35,
+      "name": "John F. Kennedy",
+      "party": "Democratic",
+      "termStart": 1961,
+      "termEnd": 1963,
+      "birthState": "Massachusetts",
+      "birthplace": "Brookline",
+      "latitude": 42.347,
+      "longitude": -71.124
+    }
+  ]
+}

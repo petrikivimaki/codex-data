@@ -1,0 +1,68 @@
+{
+  "properties": {
+    "id": "swiss-cantons",
+    "name": "Swiss Cantons",
+    "description": "Cantons of Switzerland with abbreviations, capitals, regions, populations and map coordinates.",
+    "license": "public domain",
+    "category": "geography",
+    "tags": ["switzerland", "cantons", "geography", "coordinates"],
+    "polity": "CH",
+    "updated": "2026-06-01"
+  },
+  "data": [
+    {
+      "name": "Zurich",
+      "abbreviation": "ZH",
+      "capital": "Zurich",
+      "region": "German-speaking Switzerland",
+      "population": 1580000,
+      "latitude": 47.3769,
+      "longitude": 8.5417
+    },
+    {
+      "name": "Bern",
+      "abbreviation": "BE",
+      "capital": "Bern",
+      "region": "German-speaking Switzerland",
+      "population": 1060000,
+      "latitude": 46.948,
+      "longitude": 7.4474
+    },
+    {
+      "name": "Lucerne",
+      "abbreviation": "LU",
+      "capital": "Lucerne",
+      "region": "Central Switzerland",
+      "population": 430000,
+      "latitude": 47.0502,
+      "longitude": 8.3093
+    },
+    {
+      "name": "Geneva",
+      "abbreviation": "GE",
+      "capital": "Geneva",
+      "region": "French-speaking Switzerland",
+      "population": 520000,
+      "latitude": 46.2044,
+      "longitude": 6.1432
+    },
+    {
+      "name": "Vaud",
+      "abbreviation": "VD",
+      "capital": "Lausanne",
+      "region": "French-speaking Switzerland",
+      "population": 830000,
+      "latitude": 46.5197,
+      "longitude": 6.6323
+    },
+    {
+      "name": "Ticino",
+      "abbreviation": "TI",
+      "capital": "Bellinzona",
+      "region": "Italian-speaking Switzerland",
+      "population": 355000,
+      "latitude": 46.1956,
+      "longitude": 9.0293
+    }
+  ]
+}

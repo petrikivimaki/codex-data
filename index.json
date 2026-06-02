@@ -1,0 +1,77 @@
+{
+  "properties": {
+    "size": 4,
+    "updated": "2026-06-01"
+  },
+  "data": [
+    {
+      "id": "us-presidents",
+      "name": "US Presidents",
+      "description": "Reference list of United States presidents with terms, parties, birthplaces and coordinates.",
+      "license": "public domain",
+      "category": "history",
+      "tags": [
+        "government",
+        "history",
+        "united states",
+        "people",
+        "coordinates"
+      ],
+      "format": "json",
+      "polity": "US",
+      "updated": "2026-06-01",
+      "size": 8,
+      "path": "data/us-presidents.json"
+    },
+    {
+      "id": "swiss-cantons",
+      "name": "Swiss Cantons",
+      "description": "Cantons of Switzerland with abbreviations, capitals, regions, populations and map coordinates.",
+      "license": "public domain",
+      "category": "geography",
+      "tags": [
+        "switzerland",
+        "cantons",
+        "geography",
+        "coordinates"
+      ],
+      "format": "json",
+      "polity": "CH",
+      "updated": "2026-06-01",
+      "size": 6,
+      "path": "data/swiss-cantons.json"
+    },
+    {
+      "id": "integer-sequences",
+      "name": "Integer Sequences",
+      "description": "Common integer sequences with first values, formulas and short notes.",
+      "license": "public domain",
+      "category": "mathematics",
+      "tags": [
+        "math",
+        "numbers",
+        "sequences",
+        "reference"
+      ],
+      "format": "json",
+      "updated": "2026-06-01",
+      "size": 6,
+      "path": "data/integer-sequences.json"
+    },
+    {
+      "id": "elements",
+      "name": "Elements",
+      "description": "Natural elements with key properties.",
+      "license": "public domain",
+      "category": "science",
+      "tags": [
+        "science",
+        "chemistry"
+      ],
+      "format": "json",
+      "updated": "2026-06-01",
+      "size": 118,
+      "path": "data/elements.json"
+    }
+  ]
+}

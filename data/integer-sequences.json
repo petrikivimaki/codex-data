@@ -1,0 +1,55 @@
+{
+  "properties": {
+    "id": "integer-sequences",
+    "name": "Integer Sequences",
+    "description": "Common integer sequences with first values, formulas and short notes.",
+    "license": "public domain",
+    "category": "mathematics",
+    "tags": ["math", "numbers", "sequences", "reference"],
+    "updated": "2026-06-01"
+  },
+  "data": [
+    {
+      "name": "Natural numbers",
+      "firstValues": "0, 1, 2, 3, 4, 5",
+      "formula": "a(n) = n",
+      "startsAt": 0,
+      "notes": "Counting numbers with zero included."
+    },
+    {
+      "name": "Positive integers",
+      "firstValues": "1, 2, 3, 4, 5, 6",
+      "formula": "a(n) = n + 1",
+      "startsAt": 0,
+      "notes": "Counting numbers without zero."
+    },
+    {
+      "name": "Squares",
+      "firstValues": "0, 1, 4, 9, 16, 25",
+      "formula": "a(n) = n^2",
+      "startsAt": 0,
+      "notes": "Areas of integer-sided squares."
+    },
+    {
+      "name": "Cubes",
+      "firstValues": "0, 1, 8, 27, 64, 125",
+      "formula": "a(n) = n^3",
+      "startsAt": 0,
+      "notes": "Volumes of integer-sided cubes."
+    },
+    {
+      "name": "Fibonacci",
+      "firstValues": "0, 1, 1, 2, 3, 5",
+      "formula": "a(n) = a(n - 1) + a(n - 2)",
+      "startsAt": 0,
+      "notes": "Each value is the sum of the two previous values."
+    },
+    {
+      "name": "Prime numbers",
+      "firstValues": "2, 3, 5, 7, 11, 13",
+      "formula": "Prime p where p has exactly two positive divisors",
+      "startsAt": 1,
+      "notes": "Building blocks of integer factorization."
+    }
+  ]
+}
