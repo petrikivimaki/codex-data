@@ -1,13 +1,13 @@
 {
   "properties": {
     "size": 4,
-    "updated": "2026-06-01"
+    "updated": "2026-06-04"
   },
   "data": [
     {
       "id": "us-presidents",
       "name": "US Presidents",
-      "description": "Reference list of United States presidents with terms, parties, birthplaces and coordinates.",
+      "description": "Reference list of United States presidents with terms, parties, birthplaces, coordinates, impeachment counts and term end reasons.",
       "license": "public domain",
       "category": "history",
       "tags": [
@@ -15,30 +15,34 @@
         "history",
         "united states",
         "people",
-        "coordinates"
+        "coordinates",
+        "impeachment"
       ],
       "format": "json",
       "polity": "US",
-      "updated": "2026-06-01",
-      "size": 8,
+      "updated": "2026-06-04",
+      "size": 47,
       "path": "data/us-presidents.json"
     },
     {
       "id": "swiss-cantons",
       "name": "Swiss Cantons",
-      "description": "Cantons of Switzerland with abbreviations, capitals, regions, populations and map coordinates.",
+      "description": "Cantons of Switzerland with abbreviations, capitals, regions, populations, surface areas, border status, accession years and map coordinates.",
       "license": "public domain",
       "category": "geography",
       "tags": [
         "switzerland",
         "cantons",
         "geography",
-        "coordinates"
+        "coordinates",
+        "area",
+        "borders",
+        "history"
       ],
       "format": "json",
       "polity": "CH",
-      "updated": "2026-06-01",
-      "size": 6,
+      "updated": "2026-06-04",
+      "size": 26,
       "path": "data/swiss-cantons.json"
     },
     {
