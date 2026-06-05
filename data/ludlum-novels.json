@@ -1,0 +1,343 @@
+{
+  "properties": {
+    "id": "ludlum-novels",
+    "name": "Ludlum Novels",
+    "description": "Novels published by Robert Ludlum and his estate.",
+    "license": "public domain",
+    "category": "fiction",
+    "tags": ["fiction", "arts", "thrillers", "books"],
+    "updated": "2026-06-05"
+  },
+  "data": [
+    {
+      "title": "The Scarlatti Inheritance",
+      "publicationYear": 1971,
+      "posthumous": false,
+      "publisher": "World Publishing Company",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Osterman Weekend",
+      "publicationYear": 1972,
+      "posthumous": false,
+      "publisher": "World Publishing Company",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": true
+    },
+    {
+      "title": "The Matlock Paper",
+      "publicationYear": 1973,
+      "posthumous": false,
+      "publisher": "Dial Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "Trevayne",
+      "publicationYear": 1973,
+      "posthumous": false,
+      "publisher": "Delacorte Press",
+      "penName": "Jonathan Ryder",
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Cry of the Halidon",
+      "publicationYear": 1974,
+      "posthumous": false,
+      "publisher": "Delacorte Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Rhinemann Exchange",
+      "publicationYear": 1974,
+      "posthumous": false,
+      "publisher": "Dial Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": true
+    },
+    {
+      "title": "The Road to Gandolfo",
+      "publicationYear": 1975,
+      "posthumous": false,
+      "publisher": "Dial Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": "Road",
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Gemini Contenders",
+      "publicationYear": 1976,
+      "posthumous": false,
+      "publisher": "Dial Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Chancellor Manuscript",
+      "publicationYear": 1977,
+      "posthumous": false,
+      "publisher": "Dial Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Holcroft Covenant",
+      "publicationYear": 1978,
+      "posthumous": false,
+      "publisher": "Richard Marek Publishers",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": true
+    },
+    {
+      "title": "The Matarese Circle",
+      "publicationYear": 1979,
+      "posthumous": false,
+      "publisher": "Richard Marek Publishers",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": "Matarese",
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Identity",
+      "publicationYear": 1980,
+      "posthumous": false,
+      "publisher": "Richard Marek Publishers",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": "Bourne",
+      "screenAdaptations": true
+    },
+    {
+      "title": "The Parsifal Mosaic",
+      "publicationYear": 1982,
+      "posthumous": false,
+      "publisher": "Random House",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Aquitaine Progression",
+      "publicationYear": 1984,
+      "posthumous": false,
+      "publisher": "Random House",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Supremacy",
+      "publicationYear": 1986,
+      "posthumous": false,
+      "publisher": "Random House",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": "Bourne",
+      "screenAdaptations": true
+    },
+    {
+      "title": "The Icarus Agenda",
+      "publicationYear": 1988,
+      "posthumous": false,
+      "publisher": "Random House",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Ultimatum",
+      "publicationYear": 1990,
+      "posthumous": false,
+      "publisher": "Random House",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": "Bourne",
+      "screenAdaptations": true
+    },
+    {
+      "title": "The Road to Omaha",
+      "publicationYear": 1992,
+      "posthumous": false,
+      "publisher": "Random House",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": "Road",
+      "screenAdaptations": false
+    },
+    {
+      "title": "Scorpio Illusion",
+      "publicationYear": 1993,
+      "posthumous": false,
+      "publisher": "Bantam Books",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Apocalypse Watch",
+      "publicationYear": 1995,
+      "posthumous": false,
+      "publisher": "Bantam Books",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Matarese Countdown",
+      "publicationYear": 1997,
+      "posthumous": false,
+      "publisher": "Bantam Books",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": "Matarese",
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Hades Factor",
+      "publicationYear": 2000,
+      "posthumous": false,
+      "publisher": "St. Martin's Griffin",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum", "Gayle Lynds"],
+      "series": "Covert One",
+      "screenAdaptations": true
+    },
+    {
+      "title": "The Prometheus Deception",
+      "publicationYear": 2000,
+      "posthumous": false,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Cassandra Compact",
+      "publicationYear": 2001,
+      "posthumous": true,
+      "publisher": "St. Martin's Griffin",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum", "Philip Shelby"],
+      "series": "Covert One",
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Sigma Protocol",
+      "publicationYear": 2001,
+      "posthumous": true,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Paris Option",
+      "publicationYear": 2002,
+      "posthumous": true,
+      "publisher": "St. Martin's Griffin",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Robert Ludlum", "Gayle Lynds"],
+      "series": "Covert One",
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Janson Directive",
+      "publicationYear": 2002,
+      "posthumous": true,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": true,
+      "authors": ["Robert Ludlum", "Uncredited"],
+      "series": "Janson",
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Tristan Betrayal",
+      "publicationYear": 2003,
+      "posthumous": true,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": true,
+      "authors": ["Robert Ludlum", "Uncredited"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Ambler Warning",
+      "publicationYear": 2005,
+      "posthumous": true,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": true,
+      "authors": ["Robert Ludlum", "Uncredited"],
+      "series": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bancroft Strategy",
+      "publicationYear": 2006,
+      "posthumous": true,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": true,
+      "authors": ["Robert Ludlum", "Uncredited"],
+      "series": null,
+      "screenAdaptations": false
+    }
+  ]
+}
