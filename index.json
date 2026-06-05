@@ -1,7 +1,7 @@
 {
   "properties": {
-    "size": 4,
-    "updated": "2026-06-04"
+    "size": 6,
+    "updated": "2026-06-06"
   },
   "data": [
     {
@@ -76,6 +76,42 @@
       "updated": "2026-06-01",
       "size": 118,
       "path": "data/elements.json"
+    },
+    {
+      "id": "ludlum-novels",
+      "name": "Ludlum Novels",
+      "description": "Novels published by Robert Ludlum and his estate.",
+      "license": "public domain",
+      "category": "fiction",
+      "tags": [
+        "fiction",
+        "arts",
+        "thrillers",
+        "books"
+      ],
+      "format": "json",
+      "updated": "2026-06-05",
+      "size": 30,
+      "path": "data/ludlum-novels.json"
+    },
+    {
+      "id": "un-secretary-generals",
+      "name": "UN Secretary-Generals",
+      "description": "Reference list of UN Secretary-Generals with key term details.",
+      "license": "public domain",
+      "category": "history",
+      "tags": [
+        "history",
+        "un",
+        "diplomacy",
+        "people",
+        "government",
+        "leadership"
+      ],
+      "format": "json",
+      "updated": "2026-06-06",
+      "size": 11,
+      "path": "data/un-secretary-generals.json"
     }
   ]
 }
