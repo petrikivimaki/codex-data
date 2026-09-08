@@ -87,11 +87,12 @@
         "fiction",
         "arts",
         "thrillers",
-        "books"
+        "books",
+        "literature"
       ],
       "format": "json",
       "updated": "2026-06-05",
-      "size": 30,
+      "size": 66,
       "path": "data/ludlum-novels.json"
     },
     {
