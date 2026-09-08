@@ -5,7 +5,7 @@
     "description": "Novels published by Robert Ludlum and his estate.",
     "license": "public domain",
     "category": "fiction",
-    "tags": ["fiction", "arts", "thrillers", "books"],
+    "tags": ["fiction", "arts", "thrillers", "books", "literature"],
     "updated": "2026-06-05"
   },
   "data": [
@@ -18,6 +18,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -29,6 +30,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": true
     },
     {
@@ -40,6 +42,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -51,6 +54,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -62,6 +66,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -73,6 +78,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": true
     },
     {
@@ -84,6 +90,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": "Road",
+      "seriesOrdinal": 1,
       "screenAdaptations": false
     },
     {
@@ -95,6 +102,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -106,6 +114,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -117,6 +126,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": true
     },
     {
@@ -128,6 +138,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": "Matarese",
+      "seriesOrdinal": 1,
       "screenAdaptations": false
     },
     {
@@ -139,6 +150,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": "Bourne",
+      "seriesOrdinal": 1,
       "screenAdaptations": true
     },
     {
@@ -150,6 +162,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -161,6 +174,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -172,6 +186,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": "Bourne",
+      "seriesOrdinal": 2,
       "screenAdaptations": true
     },
     {
@@ -183,6 +198,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -194,6 +210,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": "Bourne",
+      "seriesOrdinal": 3,
       "screenAdaptations": true
     },
     {
@@ -205,6 +222,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": "Road",
+      "seriesOrdinal": 2,
       "screenAdaptations": false
     },
     {
@@ -216,6 +234,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -227,6 +246,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -238,6 +258,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": "Matarese",
+      "seriesOrdinal": 2,
       "screenAdaptations": false
     },
     {
@@ -249,6 +270,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum", "Gayle Lynds"],
       "series": "Covert One",
+      "seriesOrdinal": 1,
       "screenAdaptations": true
     },
     {
@@ -260,6 +282,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -271,6 +294,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum", "Philip Shelby"],
       "series": "Covert One",
+      "seriesOrdinal": 2,
       "screenAdaptations": false
     },
     {
@@ -282,6 +306,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -293,6 +318,7 @@
       "ghostwriting": false,
       "authors": ["Robert Ludlum", "Gayle Lynds"],
       "series": "Covert One",
+      "seriesOrdinal": 3,
       "screenAdaptations": false
     },
     {
@@ -304,6 +330,7 @@
       "ghostwriting": true,
       "authors": ["Robert Ludlum", "Uncredited"],
       "series": "Janson",
+      "seriesOrdinal": 1,
       "screenAdaptations": false
     },
     {
@@ -315,6 +342,7 @@
       "ghostwriting": true,
       "authors": ["Robert Ludlum", "Uncredited"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -326,6 +354,7 @@
       "ghostwriting": true,
       "authors": ["Robert Ludlum", "Uncredited"],
       "series": null,
+      "seriesOrdinal": null,
       "screenAdaptations": false
     },
     {
@@ -337,6 +366,439 @@
       "ghostwriting": true,
       "authors": ["Robert Ludlum", "Uncredited"],
       "series": null,
+      "seriesOrdinal": null,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Altman Code",
+      "publicationYear": 2003,
+      "posthumous": true,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Gayle Lynds"],
+      "series": "Covert One",
+      "seriesOrdinal": 4,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Legacy",
+      "publicationYear": 2004,
+      "posthumous": true,
+      "publisher": "St. Martin's Press",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 4,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Lazarus Vendetta",
+      "publicationYear": 2004,
+      "posthumous": true,
+      "publisher": "St. Martin's Griffin",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Patrick Larkin"],
+      "series": "Covert One",
+      "seriesOrdinal": 5,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Moscow Vector",
+      "publicationYear": 2005,
+      "posthumous": true,
+      "publisher": "St. Martin's Griffin",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Patrick Larkin"],
+      "series": "Covert One",
+      "seriesOrdinal": 6,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Betrayal",
+      "publicationYear": 2007,
+      "posthumous": true,
+      "publisher": "Warner Books",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 5,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Arctic Event",
+      "publicationYear": 2007,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["James H. Cobb"],
+      "series": "Covert One",
+      "seriesOrdinal": 7,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Sanction",
+      "publicationYear": 2008,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 6,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Deception",
+      "publicationYear": 2009,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 7,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Objective",
+      "publicationYear": 2010,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 8,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Dominion",
+      "publicationYear": 2011,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 9,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Ares Decision",
+      "publicationYear": 2011,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Kyle Mills"],
+      "series": "Covert One",
+      "seriesOrdinal": 8,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Janson Command",
+      "publicationYear": 2012,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Paul Garrison"],
+      "series": "Janson",
+      "seriesOrdinal": 2,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Imperative",
+      "publicationYear": 2012,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 10,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Janus Reprisal",
+      "publicationYear": 2012,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["James Freveletti"],
+      "series": "Covert One",
+      "seriesOrdinal": 9,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Utopia Experiment",
+      "publicationYear": 2013,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Kyle Mills"],
+      "series": "Covert One",
+      "seriesOrdinal": 10,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Retribution",
+      "publicationYear": 2013,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 11,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Janson Option",
+      "publicationYear": 2014,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Paul Garrison"],
+      "series": "Janson",
+      "seriesOrdinal": 3,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Ascendancy",
+      "publicationYear": 2014,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 12,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Geneva Strategy",
+      "publicationYear": 2015,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["James Freveletti"],
+      "series": "Covert One",
+      "seriesOrdinal": 11,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Janson Equation",
+      "publicationYear": 2015,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Douglas Corleone"],
+      "series": "Janson",
+      "seriesOrdinal": 4,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Patriot Attack",
+      "publicationYear": 2015,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Kyle Mills"],
+      "series": "Covert One",
+      "seriesOrdinal": 12,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Enigma",
+      "publicationYear": 2016,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 13,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Initiative",
+      "publicationYear": 2017,
+      "posthumous": true,
+      "publisher": "Grand Central Publishing",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Eric Van Lustbader"],
+      "series": "Bourne",
+      "seriesOrdinal": 14,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Treadstone Resurrection",
+      "publicationYear": 2020,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Joshua Hood"],
+      "series": "Treadstone",
+      "seriesOrdinal": 1,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Evolution",
+      "publicationYear": 2020,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 15,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Treadstone Exile",
+      "publicationYear": 2021,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Joshua Hood"],
+      "series": "Treadstone",
+      "seriesOrdinal": 2,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Treachery",
+      "publicationYear": 2021,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 16,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Treadstone Transgression",
+      "publicationYear": 2022,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Joshua Hood"],
+      "series": "Treadstone",
+      "seriesOrdinal": 3,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Sacrifice",
+      "publicationYear": 2022,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 17,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Blackbriar Genesis",
+      "publicationYear": 2022,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Simon Gervais"],
+      "series": "Blackbriar",
+      "seriesOrdinal": 1,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Treadstone Rendition",
+      "publicationYear": 2023,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Joshua Hood"],
+      "series": "Treadstone",
+      "seriesOrdinal": 4,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Defiance",
+      "publicationYear": 2023,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 18,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Shadow",
+      "publicationYear": 2024,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 19,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Vendetta",
+      "publicationYear": 2025,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 20,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Bourne Escape",
+      "publicationYear": 2025,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 21,
+      "screenAdaptations": false
+    },
+    {
+      "title": "The Revenge",
+      "publicationYear": 2026,
+      "posthumous": true,
+      "publisher": "G. P. Putnam's Sons",
+      "penName": null,
+      "ghostwriting": false,
+      "authors": ["Brian Freeman"],
+      "series": "Bourne",
+      "seriesOrdinal": 22,
       "screenAdaptations": false
     }
   ]
