@@ -1,7 +1,7 @@
 {
   "properties": {
     "id": "elements",
-    "title": "Elements",
+    "name": "Elements",
     "shortDescription": "Natural elements with key properties.",
     "longDescription": "Natural elements with key properties.",
     "license": "public domain",
