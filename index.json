@@ -1,13 +1,12 @@
 {
   "properties": {
     "size": 6,
-    "updated": "2026-09-08"
+    "updated": "2026-09-10"
   },
   "data": [
     {
       "id": "us-presidents",
       "name": "US Presidents",
-      "description": "Reference list of United States presidents with terms, parties, birthplaces, coordinates, impeachment counts and term end reasons.",
       "license": "public domain",
       "category": "history",
       "tags": [
@@ -19,15 +18,16 @@
         "impeachment"
       ],
       "format": "json",
+      "shortDescription": "Reference list of United States presidents with terms, parties, birthplaces, coordinates, impeachment counts and term end reasons.",
+      "longDescription": "Reference list of United States presidents with terms, parties, birthplaces, coordinates, impeachment counts and term end reasons.",
       "polity": "US",
-      "updated": "2026-06-04",
+      "updated": "2026-09-10",
       "size": 47,
       "path": "data/us-presidents.json"
     },
     {
       "id": "swiss-cantons",
       "name": "Swiss Cantons",
-      "description": "Cantons of Switzerland with abbreviations, capitals, regions, populations, surface areas, border status, accession years and map coordinates.",
       "license": "public domain",
       "category": "geography",
       "tags": [
@@ -40,15 +40,16 @@
         "history"
       ],
       "format": "json",
+      "shortDescription": "Cantons of Switzerland with abbreviations, capitals, regions, populations, surface areas, border status, accession years and map coordinates.",
+      "longDescription": "Cantons of Switzerland with abbreviations, capitals, regions, populations, surface areas, border status, accession years and map coordinates.",
       "polity": "CH",
-      "updated": "2026-06-04",
+      "updated": "2026-09-10",
       "size": 26,
       "path": "data/swiss-cantons.json"
     },
     {
       "id": "integer-sequences",
       "name": "Integer Sequences",
-      "description": "Common integer sequences with first values, formulas and short notes.",
       "license": "public domain",
       "category": "mathematics",
       "tags": [
@@ -58,14 +59,15 @@
         "reference"
       ],
       "format": "json",
-      "updated": "2026-06-01",
+      "shortDescription": "Common integer sequences with first values, formulas and short notes.",
+      "longDescription": "Common integer sequences with first values, formulas and short notes.",
+      "updated": "2026-09-10",
       "size": 6,
       "path": "data/integer-sequences.json"
     },
     {
       "id": "elements",
       "name": "Elements",
-      "description": "Natural elements with key properties.",
       "license": "public domain",
       "category": "science",
       "tags": [
@@ -73,14 +75,15 @@
         "chemistry"
       ],
       "format": "json",
-      "updated": "2026-06-01",
+      "shortDescription": "Natural elements with key properties.",
+      "longDescription": "Natural elements with key properties.",
+      "updated": "2026-09-10",
       "size": 118,
       "path": "data/elements.json"
     },
     {
       "id": "ludlum-novels",
       "name": "Ludlum Novels",
-      "description": "Novels published by Robert Ludlum and his estate.",
       "license": "public domain",
       "category": "fiction",
       "tags": [
@@ -91,14 +94,15 @@
         "literature"
       ],
       "format": "json",
-      "updated": "2026-06-05",
+      "shortDescription": "Novels published by Robert Ludlum and his estate.",
+      "longDescription": "Novels published by Robert Ludlum and his estate.",
+      "updated": "2026-09-10",
       "size": 66,
       "path": "data/ludlum-novels.json"
     },
     {
       "id": "un-secretary-generals",
       "name": "UN Secretary-Generals",
-      "description": "Reference list of UN Secretary-Generals with key term details.",
       "license": "public domain",
       "category": "history",
       "tags": [
@@ -110,7 +114,9 @@
         "leadership"
       ],
       "format": "json",
-      "updated": "2026-09-08",
+      "shortDescription": "Reference list of UN Secretary-Generals with key term details.",
+      "longDescription": "Reference list of UN Secretary-Generals with key term details.",
+      "updated": "2026-09-10",
       "size": 11,
       "path": "data/un-secretary-generals.json"
     }
