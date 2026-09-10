@@ -2,12 +2,18 @@
   "properties": {
     "id": "integer-sequences",
     "name": "Integer Sequences",
-    "description": "Common integer sequences with first values, formulas and short notes.",
+    "shortDescription": "Common integer sequences with first values, formulas and short notes.",
+    "longDescription": "Common integer sequences with first values, formulas and short notes.",
     "license": "public domain",
     "category": "mathematics",
     "tags": ["math", "numbers", "sequences", "reference"],
-    "updated": "2026-06-01"
+    "updated": "2026-09-10"
   },
+  "defaultColumns": [
+    "name",
+    "firstValues",
+    "formula"
+  ],
   "data": [
     {
       "name": "Natural numbers",

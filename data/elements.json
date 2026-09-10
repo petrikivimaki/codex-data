@@ -2,12 +2,20 @@
   "properties": {
     "id": "elements",
     "title": "Elements",
-    "description": "Natural elements with key properties.",
+    "shortDescription": "Natural elements with key properties.",
+    "longDescription": "Natural elements with key properties.",
     "license": "public domain",
     "category": "science",
     "tags": ["science", "chemistry"],
-    "updated": "2026-06-01"
+    "updated": "2026-09-10"
   },
+  "defaultColumns": [
+    "z",
+    "symbol",
+    "name",
+    "m",
+    "class"
+  ],
   "data": [
     {
       "z": 1,

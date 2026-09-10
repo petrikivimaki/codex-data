@@ -2,7 +2,8 @@
   "properties": {
     "id": "swiss-cantons",
     "name": "Swiss Cantons",
-    "description": "Cantons of Switzerland with abbreviations, capitals, regions, populations, surface areas, border status, accession years and map coordinates.",
+    "shortDescription": "Cantons of Switzerland with abbreviations, capitals, regions, populations, surface areas, border status, accession years and map coordinates.",
+    "longDescription": "Cantons of Switzerland with abbreviations, capitals, regions, populations, surface areas, border status, accession years and map coordinates.",
     "license": "public domain",
     "category": "geography",
     "tags": [
@@ -15,8 +16,14 @@
       "history"
     ],
     "polity": "CH",
-    "updated": "2026-06-04"
+    "updated": "2026-09-10"
   },
+  "defaultColumns": [
+    "name",
+    "capital",
+    "population",
+    "swissCantonSince"
+  ],
   "data": [
     {
       "name": "Zurich",

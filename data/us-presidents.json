@@ -2,7 +2,8 @@
   "properties": {
     "id": "us-presidents",
     "name": "US Presidents",
-    "description": "Reference list of United States presidents with terms, parties, birthplaces, coordinates, impeachment counts and term end reasons.",
+    "shortDescription": "Reference list of United States presidents with terms, parties, birthplaces, coordinates, impeachment counts and term end reasons.",
+    "longDescription": "Reference list of United States presidents with terms, parties, birthplaces, coordinates, impeachment counts and term end reasons.",
     "license": "public domain",
     "category": "history",
     "tags": [
@@ -14,8 +15,15 @@
       "impeachment"
     ],
     "polity": "US",
-    "updated": "2026-06-04"
+    "updated": "2026-09-10"
   },
+  "defaultColumns": [
+    "number",
+    "name",
+    "party",
+    "termStart",
+    "termEnd"
+  ],
   "data": [
     {
       "number": 1,

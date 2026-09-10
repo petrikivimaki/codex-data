@@ -2,12 +2,19 @@
   "properties": {
     "id": "ludlum-novels",
     "name": "Ludlum Novels",
-    "description": "Novels published by Robert Ludlum and his estate.",
+    "shortDescription": "Novels published by Robert Ludlum and his estate.",
+    "longDescription": "Novels published by Robert Ludlum and his estate.",
     "license": "public domain",
     "category": "fiction",
     "tags": ["fiction", "arts", "thrillers", "books", "literature"],
-    "updated": "2026-06-05"
+    "updated": "2026-09-10"
   },
+  "defaultColumns": [
+    "title",
+    "publicationYear",
+    "publisher",
+    "authors"
+  ],
   "data": [
     {
       "title": "The Scarlatti Inheritance",
